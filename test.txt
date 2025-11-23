@@ -1,2 +1,2 @@
-Фігури: еліпс,трикутник, прямокутник,квадрат.
-Shapes: ellipse, triangle, rectangle, square.
+Фігури: коло,трикутник, прямокутник,квадрат.
+Shapes: circle, triangle, rectangle, square.
